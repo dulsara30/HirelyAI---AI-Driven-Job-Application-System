@@ -171,7 +171,6 @@ Add your PNG/JPGs there, then reference like:
 ### Candidate – Apply
 ![Candidate Apply](./frontend/public/screenshots/candidate-apply.png)
 
-```
 
 
 ## 🚀 Deployment Notes
@@ -186,7 +185,6 @@ Add your PNG/JPGs there, then reference like:
 * **Clerk:** Add app domains (frontend + backend) to allowed origins.
 
 
----
 
 ## 📝 License
 
