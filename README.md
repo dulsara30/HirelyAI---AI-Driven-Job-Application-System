@@ -158,7 +158,7 @@ Content-Type: application/json
 Create a folder: `frontend/public/screenshots/`
 Add your PNG/JPGs there, then reference like:
 
-```markdown
+
 ### Admin – Job List
 ![Admin Job List](./frontend/public/screenshots/admin-job-list.png)
 
@@ -170,9 +170,9 @@ Add your PNG/JPGs there, then reference like:
 
 ### Candidate – Apply
 ![Candidate Apply](./frontend/public/screenshots/candidate-apply.png)
+
 ```
 
----
 
 ## 🚀 Deployment Notes
 
@@ -191,7 +191,5 @@ Add your PNG/JPGs there, then reference like:
 ## 📝 License
 
 MIT © <Dulsara Manakal>
-
-```
 
 ---
